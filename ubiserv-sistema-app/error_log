@@ -1,0 +1,1 @@
+[28-Dec-2021 10:21:20 Mexico/General] PHP Fatal error:  Cannot redeclare is_alpha_png() (previously declared in /home1/ubiservi/ubi-serv.com/ubiserv-sistema-app/config/functions.php:23) in /home1/ubiservi/ubi-serv.com/ubiserv-sistema-app/config/functions.php on line 23
